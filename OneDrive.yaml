@@ -1,0 +1,13 @@
+# NAME: OneDrive同步上传
+payload:
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,oneclient.sfx.ms
+  - DOMAIN-SUFFIX,photos.live.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,sharepointonline.com
+  - DOMAIN-SUFFIX,skydrive.wns.windows.com
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net          
+  - DOMAIN-SUFFIX,my.microsoftpersonalcontent.com
+  - DOMAIN-KEYWORD,1drv
+  - DOMAIN-KEYWORD,skydrive
