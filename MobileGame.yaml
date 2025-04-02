@@ -1,0 +1,8 @@
+# NAME: MobileGame走代理
+payload:
+  - DOMAIN-SUFFIX,cygames.jp      
+  - DOMAIN-SUFFIX,so-net.tw
+  - DOMAIN-SUFFIX,nexon.co.jp
+  - DOMAIN-SUFFIX,nexon.com
+  - DOMAIN-SUFFIX,nexon.io
+  - DOMAIN-SUFFIX,nexoncdn.co.kr
