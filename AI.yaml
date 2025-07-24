@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,intercom.io
