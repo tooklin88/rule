@@ -1,4 +1,4 @@
 # NAME: MobileGameDL资料下载
 payload:
-DOMAIN-SUFFIX,ba.dn.nexoncdn.co.kr
-DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
+  - DOMAIN-SUFFIX,ba.dn.nexoncdn.co.kr
+  - DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
