@@ -1,0 +1,8 @@
+# NAME: IP/DNS检测
+payload:
+  - DOMAIN-SUFFIX,ping0.cc
+  - DOMAIN-SUFFIX,scamalytics.com
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,whoer.net
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,browserleaks.org
