@@ -1,6 +1,6 @@
 # news
 payload:
-#BBC
+#BBC TOTAL: 28
   - DOMAIN,aod-dash-uk-live.akamaized.net
   - DOMAIN,aod-hls-uk-live.akamaized.net
   - DOMAIN,as-dash-uk-live.akamaized.net
@@ -29,7 +29,7 @@ payload:
   - DOMAIN-SUFFIX,bidi.net.uk
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,uk-live
-#Bloomberg
+#Bloomberg TOTAL: 22
   - DOMAIN-SUFFIX,bloomberg.co.kr
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,bloomberg.com.br
@@ -52,7 +52,7 @@ payload:
   - DOMAIN-SUFFIX,quicktake.video
   - DOMAIN-SUFFIX,techatbloomberg.com
   - DOMAIN-SUFFIX,tictoc.video
-#CNN
+#CNN TOTAL: 6
   - DOMAIN-SUFFIX,cnn.com
   - DOMAIN-SUFFIX,cnn.io
   - DOMAIN-SUFFIX,cnn.it
