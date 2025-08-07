@@ -1,0 +1,61 @@
+# news
+payload:
+#BBC
+  - DOMAIN,aod-dash-uk-live.akamaized.net
+  - DOMAIN,aod-hls-uk-live.akamaized.net
+  - DOMAIN,as-dash-uk-live.akamaized.net
+  - DOMAIN,as-hls-uk-live.akamaized.net
+  - DOMAIN,vod-dash-uk-live.akamaized.net
+  - DOMAIN,vod-dash-ww-live.akamaized.net
+  - DOMAIN,vod-hls-uk-live.akamaized.net
+  - DOMAIN,vod-sub-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-ww-live.akamaized.net
+  - DOMAIN,vs-cmaf-push-uk-live.akamaized.net
+  - DOMAIN-SUFFIX,bbc
+  - DOMAIN-SUFFIX,bbc.co
+  - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,bbc.in
+  - DOMAIN-SUFFIX,bbc.net.uk
+  - DOMAIN-SUFFIX,bbcchinese.com
+  - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
+  - DOMAIN-SUFFIX,bbcfmt.s.llnwi.net
+  - DOMAIN-SUFFIX,bbci.co
+  - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,bbcmedia.co.uk
+  - DOMAIN-SUFFIX,bbcpersian.com
+  - DOMAIN-SUFFIX,bbcverticals.com
+  - DOMAIN-SUFFIX,bidi.net.uk
+  - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-KEYWORD,uk-live
+#Bloomberg
+  - DOMAIN-SUFFIX,bloomberg.co.kr
+  - DOMAIN-SUFFIX,bloomberg.com
+  - DOMAIN-SUFFIX,bloomberg.com.br
+  - DOMAIN-SUFFIX,bloomberg.fm
+  - DOMAIN-SUFFIX,bloomberg.tv
+  - DOMAIN-SUFFIX,bloombergapps.com
+  - DOMAIN-SUFFIX,bloombergarcade.com
+  - DOMAIN-SUFFIX,bloombergbeta.com
+  - DOMAIN-SUFFIX,blpprofessional.com
+  - DOMAIN-SUFFIX,bmia.org
+  - DOMAIN-SUFFIX,bnef.com
+  - DOMAIN-SUFFIX,businessweek.com
+  - DOMAIN-SUFFIX,businessweekmag.com
+  - DOMAIN-SUFFIX,bwbx.io
+  - DOMAIN-SUFFIX,citylab.com
+  - DOMAIN-SUFFIX,gotraffic.net
+  - DOMAIN-SUFFIX,londonmithraeum.com
+  - DOMAIN-SUFFIX,neweconomyforum.com
+  - DOMAIN-SUFFIX,newenergyfinance.com
+  - DOMAIN-SUFFIX,quicktake.video
+  - DOMAIN-SUFFIX,techatbloomberg.com
+  - DOMAIN-SUFFIX,tictoc.video
+#CNN
+  - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-SUFFIX,cnn.io
+  - DOMAIN-SUFFIX,cnn.it
+  - DOMAIN-SUFFIX,cnnarabic.com
+  - DOMAIN-SUFFIX,cnnlabs.com
+  - DOMAIN-SUFFIX,cnnmoney.ch
