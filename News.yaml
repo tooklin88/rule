@@ -29,6 +29,13 @@ payload:
   - DOMAIN-SUFFIX,bidi.net.uk
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,uk-live
+#CNN TOTAL: 6
+  - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-SUFFIX,cnn.io
+  - DOMAIN-SUFFIX,cnn.it
+  - DOMAIN-SUFFIX,cnnarabic.com
+  - DOMAIN-SUFFIX,cnnlabs.com
+  - DOMAIN-SUFFIX,cnnmoney.ch
 #Bloomberg TOTAL: 22
   - DOMAIN-SUFFIX,bloomberg.co.kr
   - DOMAIN-SUFFIX,bloomberg.com
@@ -52,13 +59,6 @@ payload:
   - DOMAIN-SUFFIX,quicktake.video
   - DOMAIN-SUFFIX,techatbloomberg.com
   - DOMAIN-SUFFIX,tictoc.video
-#CNN TOTAL: 6
-  - DOMAIN-SUFFIX,cnn.com
-  - DOMAIN-SUFFIX,cnn.io
-  - DOMAIN-SUFFIX,cnn.it
-  - DOMAIN-SUFFIX,cnnarabic.com
-  - DOMAIN-SUFFIX,cnnlabs.com
-  - DOMAIN-SUFFIX,cnnmoney.ch
 # NYTimes TOTAL: 16
   - DOMAIN-SUFFIX,d1f1eryiqyjs0r.cloudfront.net
   - DOMAIN-SUFFIX,d3lar09xbwlsge.cloudfront.net
@@ -108,3 +108,15 @@ payload:
   - DOMAIN-SUFFIX,thomsonreutersmexico.com
   - DOMAIN-SUFFIX,tmsnrt.rs
   - DOMAIN-SUFFIX,tr.com
+#The Wall Street Journal
+- DOMAIN-SUFFIX,wsj.net
+- DOMAIN-SUFFIX,wsj.com
+#The Washington Post
+- DOMAIN-SUFFIX,washingtonpost.com
+#The Guardian
+- DOMAIN-SUFFIX,theguardian.com
+- DOMAIN-SUFFIX,guardianapis.com
+- DOMAIN-SUFFIX,guardianapps.co.uk
+#Der Spiegel
+- DOMAIN-SUFFIX,spiegel.de
+
