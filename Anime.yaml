@@ -1,9 +1,8 @@
 # NAME: anime新番
 payload:
-  - DOMAIN-SUFFIX,ciyuancheng.net
   - DOMAIN-SUFFIX,senhewenhua.com
   - DOMAIN-SUFFIX,hypstarcdn.com
   - DOMAIN-SUFFIX,tjdownload.pan.wo.cn
   - DOMAIN-SUFFIX,toutiao50.com
   - DOMAIN-SUFFIX,xfvod.pro
-- DOMAIN-SUFFIX,dytt-hot.com
+  - DOMAIN-SUFFIX,dytt-hot.com
