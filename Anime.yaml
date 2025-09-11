@@ -13,3 +13,5 @@ payload:
   - DOMAIN-SUFFIX,pan.wo.cn
 #风铃
    - DOMAIN-SUFFIX,bcevod.com
+#MX动漫
+   - DOMAIN-SUFFIX,yinghuazy.xyz
