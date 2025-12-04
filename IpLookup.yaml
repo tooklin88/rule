@@ -1,8 +1,12 @@
 # NAME: IP/DNS检测
 payload:
+  - DOMAIN-SUFFIX,whatismyip.com
+  - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,ping0.cc
   - DOMAIN-SUFFIX,scamalytics.com
-  - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,whoer.net
   - DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN-SUFFIX,whatismyip.com
+  - DOMAIN-SUFFIX,browserleaks.net
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,ipleak.net
