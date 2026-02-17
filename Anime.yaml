@@ -1,11 +1,5 @@
 # NAME: anime新番
 payload:
-  - DOMAIN-SUFFIX,hypstarcdn.com
-  - DOMAIN-SUFFIX,toutiao50.com
-  - DOMAIN-SUFFIX,xfvod.pro
-  - DOMAIN-SUFFIX,dytt-hot.com
-  - DOMAIN-SUFFIX,bfdm.xyz
-  - DOMAIN-SUFFIX,hfyrw.com
 #次元城
   - DOMAIN-SUFFIX,ciyuancheng.net
   - DOMAIN-SUFFIX,senhewenhua.com
@@ -16,3 +10,5 @@ payload:
 #MX动漫
    - DOMAIN-SUFFIX,yinghuazy.xyz
    - DOMAIN-SUFFIX,akamaized.net
+#libvio
+   - DOMAIN-SUFFIX,v.vbing.me
