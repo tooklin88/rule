@@ -17,3 +17,5 @@ payload:
 #7sefun
    - DOMAIN-SUFFIX,toutiao50.com
    - DOMAIN-SUFFIX,v16.toutiao50.com
+#MuteFun
+   - DOMAIN-SUFFIX,3ee59f732c9ba3662a3f6c18b60061d3.r2.cloudflarestorage.com
